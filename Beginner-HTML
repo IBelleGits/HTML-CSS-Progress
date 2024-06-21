@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="style.css">
+    <title>Isabelle Gits</title>
+</head>
+
+<body>
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="blog.html">Mijn blog</a> |
+        <a href="https://www.bit-academy.nl/">Bit Academy</a>
+    </nav>
+    <header>
+        <h1>Isabelle Gits</h1>
+    </header>
+    <div class="myDiv">
+        <h3>Over <span>mij</span></h3>
+        <p>Mijn naam is Isabelle Gits.
+            Ik heb een kat die Poes heet.
+            Ik woon eigenlijk in Almere maar voor deze opleiding verblijf ik bij mijn vriend in Houten.
+            Ik heb mijn eigen auto, een Fiait Punto, waar ik elke dag mee naar school kom.
+            Ik ben een hockey keepster bij de club: Buitenhout.</p>
+    </div>
+    <h3>Mijn <span>hobbies</span></h3>
+    <ul>
+        <li><a href="https://nl.wikipedia.org/wiki/Musiceren">Muziek maken</a></li>
+        <li><a href="https://nl.wikipedia.org/wiki/Hockey">Hockeyen</a></li>
+        <li><a href="https://nl.wikipedia.org/wiki/Koken">Koken</a></li>
+    </ul>
+    <h3>Mijn <span>favoriete series</span></h3>
+    <ol>
+        <li>Stranger Things</li>
+        <li>Friends</li>
+        <li>Don't fuck with cats</li>
+    </ol>
+    <img src="foto.jpg" alt="Willem" />
+
+    <footer>
+        <p>Emailadres:<a href="itmmgits@gmail.com">itmmgits@gmail.com</a></p>
+    </footer>
+</body>
+
+</html>
