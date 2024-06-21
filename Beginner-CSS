@@ -1,0 +1,54 @@
+h1 {
+    color: rgb(114, 28, 151);
+}
+
+body {
+    background-color: rgb(103, 139, 200);
+    color: rgb(58, 3, 72);
+}
+
+div.a {
+    font-size: x-large;
+}
+
+img {
+    height: 25%;
+    width: 25%;
+}
+
+.myDiv {
+    background-color: rgb(60, 101, 177);
+}
+
+span {
+    color: rgb(101, 11, 121);
+}
+
+header {
+    border-bottom-style: solid;
+}
+
+article {
+    background-color: rgb(60, 101, 177);
+}
+
+header {
+    display: block;
+}
+
+nav {
+    display: inline;
+    background-color: yellowgreen;
+    padding-right: 495px;
+    padding-left: 495px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+footer {
+    padding-right: 495px;
+    padding-left: 495px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: pink;
+}
